@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="name.gif" alt="Hi, I am Shiv from Artistbots" width="700" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&customColorList=12,14,20,24&text=Hi%2C%20I%27m%20Shiv&fontColor=ffffff&fontSize=60&fontAlign=50&fontAlignY=42&desc=from%20Artistbots%20%7C%20Bots%20%E2%80%A2%20Websites%20%E2%80%A2%20Automation&descSize=18&descAlignY=68&animation=twinkling&height=200" alt="Hi, I am Shiv from Artistbots" width="100%" />
 
 **I build Telegram bots, websites and backend tools.**
 
